@@ -1,4 +1,4 @@
-#TCGoogleMaps
+#TCGoogleMaps 64 bit version
 
 This sample project shows how we can use Google Maps SDK for iOS, Google Places API  and Google Directions API to build a simple navigation app.
 
