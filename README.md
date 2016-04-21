@@ -35,6 +35,8 @@ This sample project shows how we can use Google Maps SDK for iOS, Google Places 
 
 Follow the simple installation guide from <http://cocoapods.org/>.
 
+more reference: <http://blog.devtang.com/2014/05/25/use-cocoapod-to-manage-ios-lib-dependency/>.
+
 ####Step 2: Install Library Dependencies
 
 Run the following commands in Terminal.app:  
